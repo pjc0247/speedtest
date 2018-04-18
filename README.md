@@ -1,5 +1,5 @@
 # speedtest
-Tiny framework for measure execution time between two methods.
+Tiny framework for measure execution time between methods.
 
 Example
 ----
